@@ -17,6 +17,6 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 
 <style>
   .wrapper {
-    max-width: 46em;
+    max-width: 90em;
   }
 </style>
