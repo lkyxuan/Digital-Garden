@@ -18,6 +18,7 @@ I previously tried various methods of sorting out what I had seen in the industr
 之前我尝试了多种梳理自己在行业中见闻的方法，最终采取笔记使用obsidian而日程使用Notion的形式。鉴于我现在经常需要将他更新，所以他整体保留在我本地，如果技术可行的话，我并不介意使用filecoin或是Arweave来编辑。
 
 
+[Markdown syntax](https://www.markdownguide.org/getting-started/)
 
 ENS：0xmiracle.eth
 
