@@ -16,6 +16,7 @@ I previously tried various methods of sorting out what I had seen in the industr
 
 这是一个私人网页，用于0xmiracle的终生CRYPTO研究工作。
 之前我尝试了多种梳理自己在行业中见闻的方法，最终采取笔记使用obsidian而日程使用Notion的形式。鉴于我现在经常需要将他更新，所以他整体保留在我本地，如果技术可行的话，我并不介意使用filecoin或是Arweave来编辑。
+test update
 
 
 
