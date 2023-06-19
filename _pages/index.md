@@ -8,9 +8,6 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
 This is a private page for 0xmiracle's lifetime CRYPTO research work.
 I previously tried various methods of sorting out what I had seen in the industry and eventually took notes using obsidian and the schedule using Notion. Given how often I need to bring him up to date now, he stays with me locally as a whole, and I don't mind using filecoin or Arweave to edit if technically feasible.
 
