@@ -2,7 +2,7 @@
 layout: page
 title: Home
 id: home
-permalink: https://0XMIRACLE.XYZ
+permalink: /
 ---
 
 # Welcome! 🌱
