@@ -2,7 +2,7 @@
 layout: page
 title: Home
 id: home
-permalink: /
+permalink: https://0XMIRACLE.XYZ
 ---
 
 # Welcome! 🌱
@@ -21,8 +21,6 @@ ENS：0xmiracle.eth
 
 The leading organizations I am involved with are cedge.io & cyberight.capital.
 </p>
-[Markdown syntax](https://www.markdownguide.org/getting-started/)
-[this is a Markdown link to the note about cats](/cats）
 
 <style>
   .wrapper {
