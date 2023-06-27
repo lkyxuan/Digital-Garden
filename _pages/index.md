@@ -24,7 +24,7 @@ The leading organizations I am involved with are cedge.io & cyberight.capital.
 
 <style>
   .wrapper {
-    max-width: 60em;
+    max-width: 46em;
   }
 </style>
 
